@@ -1,5 +1,5 @@
 # Blockchain
-This project illustrates the fundamental concepts of a blockchain and cryptocurrency including:
+This project illustrates the fundamental concepts of blockchain and cryptocurrency including:
 - Blocks that store data
 - Digital signature "chaining" the blocks together
 - Proof of work (mining) to validate new blocks
